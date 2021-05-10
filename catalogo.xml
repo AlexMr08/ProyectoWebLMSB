@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalogo>
+    <disco>
+        <titulo>Visión Túnel</titulo>
+        <artista>Cruz Cafune</artista>
+        <pais>España</pais>
+        <compañia>Mecen</compañia>
+        <año>2020</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/vt.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Visión Túnel</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Ghosteame</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Cartier de Madera</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Stone Island</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>TLC</nombre>
+                <autor>Cruz Cafuné &amp; Maikel Delacalle</autor>
+            </pista>
+            <pista>
+                <nombre>Mapa de Calor</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Beast Mode</nombre>
+                <autor>Cruz Cafuné &amp; WE$T DUBAI</autor>
+            </pista>
+            <pista>
+                <nombre>Issey Miyake</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>East Atlanta Love Letter</titulo>
+        <artista>6lack</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>LVRN/Intrescope Records</compañia>
+        <año>2018</año>
+        <genero>R&amp;B/Soul</genero>
+        <imagen>img/eall.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Unfair</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Loaded Gun</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>East Atlanta Love Letter (feat. Future)</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Let Her Go</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Sorry</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Pretty Little Fears (feat. J. Cole)</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Disconnect</nombre>
+                <autor>6lack</autor>
+            </pista>            
+            <pista>
+                <nombre>Switch</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Thugger's Interlude</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Balenciaga Challenge (feat. Offset)</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Scripture</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Nonchalant</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Seasons (feat. Khalid)</nombre>
+                <autor>6lack</autor>
+            </pista>
+            <pista>
+                <nombre>Stan</nombre>
+                <autor>6lack</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>ASTROWORLD</titulo>
+        <artista>Travis Scott</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Epic Records/Sony</compañia>
+        <año>2018</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/aw.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>STARGAZING</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>CAROUSEL</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>SICKO MODE</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>R.I.P SCREW</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>STOP TRYING TO BE GOD</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>NO BYSTANDERS</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>SKELETONS</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>WAKE UP</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>5% TINT</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>NC-17</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>ASTROTHUNDER</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>YOSEMITE</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>CAN'T SAY</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>WHO? WHAT!</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>BUTTERFLY EFFECT</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>HOUSTONFORNICATION</nombre>
+                <autor>Travis Scott</autor></pista>
+            <pista>
+                <nombre>COFFEE BEAN</nombre>
+                <autor>Travis Scott</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Die a legend</titulo>
+        <artista>Polo g</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Columbia Records</compañia>
+        <año>2019</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/dal.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Lost Files</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Dying Breed</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Through da Storm</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Effortless</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Pop Out (feat. Lil Tjay)</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Battle Cry</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>BST</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Finer Things</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Picture This</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Chosen 1</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Deep Wounds</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Last Strike</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>A King's Nightmare</nombre>
+                <autor>Polo G</autor>
+            </pista>
+            <pista>
+                <nombre>Pop Out Again (feat. Lil Baby &amp; Gunna)</nombre>
+                <autor>Polo G</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Goodbye &amp; good riddance</titulo>
+        <artista>Juice WRLD</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Grade A Productions</compañia>
+        <año>2018</año>
+        <genero>Hip-Hop/Rap</genero> 
+        <imagen>img/gr.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Intro</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>All Girls Are the Same</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Lucid Dreams</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Lean Wit Me</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Wasted (feat. Lil Uzi Vert)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>I'm Still</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Betrayal (Skit)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>   Candles</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Scared of Love</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Used to</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Karma (Skit)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Hurt Me</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Black &amp; White</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Long Gone</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>End of the Road</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>I'll Be Fine</nombre>
+                <autor>Juice WRLD </autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Legends never die</titulo>
+        <artista>Juice WRLD</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Grade A Productions</compañia>
+        <año>2020</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/lnd.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Anxiety (Intro)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Conversations</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Titanic</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Bad Energy</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Righteous</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Blood on my Jeans</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Smile</nombre>
+                <autor>Juice WRLD &amp; The Weekend</autor>
+            </pista>
+            <pista>
+                <nombre>Tell Me U Luv Me</nombre>
+                <autor>Juice WRLD &amp; Trippie Redd</autor>
+            </pista>
+            <pista>
+                <nombre>Hate the Other Side (feat. Polo G)</nombre>
+                <autor>Juice WRLD, Marshmello &amp; The Kid LAROI</autor>
+            </pista>
+            <pista>
+                <nombre>Get Through It (Interlude)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Life's a Mess</nombre>
+                <autor>Juice WRLD &amp; Halsey</autor>
+            </pista>
+            <pista>
+                <nombre>Come and Go</nombre>
+                <autor>Juice WRLD &amp; Marshmello</autor>
+            </pista>
+            <pista>
+                <nombre>I Want It</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Figthing Demons</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Wishing Well</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Screw Juice</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Up Up and Away</nombre>
+                <autor>Juice WRLD </autor>
+            </pista>
+            <pista>
+                <nombre>The Man, The Myth, The Legend (Interlude)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Stay High</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Can't Die</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Man of The Year</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+            <pista>
+                <nombre>Juice WRLD Speaks from Heaven (Outro)</nombre>
+                <autor>Juice WRLD</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>When it's dark out</titulo>
+        <artista>G-Eazy</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>RCA Records</compañia>
+        <año>2015</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/wido.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Intro</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Random</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Me, Myself and I</nombre>
+                <autor>G-Eazy x bebe Rexha</autor>
+            </pista>
+            <pista>
+                <nombre>One of Them (feat. Big Sean)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Drifting (feat. Chris Brown &amp; Tory Lanez)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Of All Things (feat. Too $hort)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Order More (feat. Starrah)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Calm Down</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Don't Let Me GO (feat. Grace)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>You Got Me</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>What If (feat. Gizzle)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Sad Boy</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Some Kind of Drug (feat. Marc E. Bassy)</nombre>
+                <autor>G-Eazy </autor>
+            </pista>
+            <pista>
+                <nombre>Think About You (feat. Quiñ)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Everything Will Be OK (feat. Kehlani)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>For This (feat. IAMNOBODI)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+            <pista>
+                <nombre>Nothing To ME (feat. Keyshia Cole &amp; E-40)</nombre>
+                <autor>G-Eazy</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>STOKELEY</titulo>
+        <artista>Ski mask the slump god</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Republic Records</compañia>
+        <año>2018</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/sk.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>So High</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Nuketow (feat. Juice WRLD)</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Foot Fungus</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>LA LA</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Unbothered</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Save Me Pt 2 (feat. Austin Lam)</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Adults Swim</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Far Gone (feat. Lil Baby)</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Get Geeked</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Reborn  Rebel</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Faucet Failure</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>U and I</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+            <pista>
+                <nombre>Cat Pis (feat. Lil Yatchy)</nombre>
+                <autor>Ski Mask the Slump God</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>MOONLIGHT922</titulo>
+        <artista>Cruz Cafune</artista>
+        <pais>España</pais>
+        <compañia>Mecen</compañia>
+        <año>2020</año>
+        <genero>Hip-Hop</genero>
+        <imagen>img/m922.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>922 928</nombre>
+                <autor>Cruz Cafuné</autor>    
+            </pista>
+            <pista>
+                <nombre>Mi isla / 10k</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Vvs</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Ojitos Aguaos</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Lo Pues Intentar</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Bala Perdida</nombre>
+                <autor>Cruz Cafuné &amp; Flavio Rodríguez</autor>
+            </pista>
+            <pista>
+                <nombre>Mina el Hammani</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Slow Mo</nombre>
+                <autor>Cruz Cafuné &amp; 4FLEX</autor>
+            </pista>
+            <pista>
+                <nombre>Tentaciones</nombre>
+                <autor>Cruz Cafuné &amp; Abhir Hathi</autor>
+            </pista>
+            <pista>
+                <nombre>Cuando Estoy Mal</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Moonlight</nombre>
+                <autor>Cruz Cafuné &amp; Alba Reche</autor>
+            </pista>
+            <pista>
+                <nombre>En Bajo Perfil</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Doble Tick Azul</nombre>
+                <autor>Cruz Cafuné &amp; Sofi de la Torre</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Maracucho bueno muere chiqito</titulo>
+        <artista>Cruz Cafune</artista>
+        <pais>España</pais>
+        <compañia>Mecen</compañia>
+        <año>2018</año>
+        <genero>Urbano latino</genero>
+        <imagen>img/mbmc.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Maracucho Bueno / Muere Chiquito</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Te Enamoraste de un G (feat. Sholo Truth)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Forbes (feat. Malcriao)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Cuenta Conmigo</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Coquito la Pieza</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>De Ayer Para Hoy</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Majalulo (feat. Dawaira)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Tokyo Drift</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Un Fleje (feat. Chiquitito Skit)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Chivatos</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Todos Esos Golfos</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Ahí Fuera (No Hay Reglas)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Único</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>Bandida</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+            <pista>
+                <nombre>No Hay Perdón (feat. Dano)</nombre>
+                <autor>Cruz Cafuné</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>KOD</titulo>
+        <artista>J. Cole</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Dreamville</compañia>
+        <año>2018</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/kod.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Intro</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>KOD</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Photograph</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>The Cut Off (feat. kiLL edward)</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>ATM</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Motiv8</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Kevin's Heart</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>BRACKETS</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>The Cut Off (feat. kiLL edward)</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>ATM</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Motiv8</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Kevin's Heart</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>BRACKETS</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Once an Addict (interlude)</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>FRIENDS (feat. kiLL edward)</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>Window Pain (Outro)</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+            <pista>
+                <nombre>1985 (Intro to "The Fall Off")</nombre>
+                <autor>J. Cole</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Who is Israel B.?</titulo>
+        <artista>Israel B</artista>
+        <pais>España</pais>
+        <compañia>Lowligth Music</compañia>
+        <año>2019</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/wiib.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Pide Más</nombre>
+                <autor>Israel B &amp; Lowligth</autor>
+            </pista>
+            <pista>
+                <nombre>Ignorante</nombre>
+                <autor>Israel B, Lowligth &amp; Kaydy Cein</autor>
+            </pista>
+            <pista>
+                <nombre>Más Ná (feat. $kyhook)</nombre>
+                <autor>Israel B</autor>
+            </pista>
+            <pista>
+                <nombre>Outro</nombre>
+                <autor>Israel B &amp; Lowligth</autor>
+            </pista>
+            <pista>
+                <nombre>Pegajosa</nombre>
+                <autor>Israel B &amp; Lowligth</autor>
+            </pista>
+            <pista>
+                <nombre>YKHWD (feat. $kyhook)</nombre>
+                <autor>Israel B</autor>
+            </pista>
+            <pista>
+                <nombre>YYANOSÉ</nombre>
+                <autor>Israel B &amp; Lowligth</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>DAMN.</titulo>
+        <artista>Kendrick Lamar</artista>
+        <pais>Estado Unidos</pais>
+        <compañia>Aftermath/Interscope</compañia>
+        <año>2017</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/dm.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>BLOOD.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>DNA.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>YAH.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>ELEMENT.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>FEEL.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>LOYALTY. (FEAT. RIHANNA.)</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>PRIDE.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>HUMBLE.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>LUST.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>LOVE. (FEAT. ZAKARI.)</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>XXX. (FEAT. U2.)</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>FEAR.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>GOD.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+            <pista>
+                <nombre>DUCKWORTH.</nombre>
+                <autor>KENDRICK LAMAR</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>True 2 myself</titulo>
+        <artista>Lil Tjay</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Columbia</compañia>
+        <genero>Hip-Hop/Rap</genero>
+        <año>2019</año>
+        <imagen>img/t2m.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>One Take</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Hold On</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>F.N.</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Dream That I Had</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Post To BE (feat. Rileyy Lanez)</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Ruthless (feat. Jay Critch)</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Mixed Emotions</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Decline (feat. Lil Baby)</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Sex Sound</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Leaked</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Laneswitch</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Bothers</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Goat</nombre>
+                <autor>Lil Tjay </autor>
+            </pista>
+            <pista>
+                <nombre>Top of My Game</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>No Escape</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Brothers (feat. Lil Durk) (Remix)</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+            <pista>
+                <nombre>Leaked (feat. Lil Wayne) (Remix)</nombre>
+                <autor>Lil Tjay</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Meet the Woo 2</titulo>
+        <artista>Pop Smoke</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Republic Records</compañia>
+        <año>2019</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/mtw.jpg</imagen>
+        <lista>
+            <pista>
+                <nombre>Invincible</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Shake the Room (feat. Quavo)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Get Back</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Christopher Walking</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Foreigner (feat. A Boogie wit da Hoodie)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Sweetheart (feat. Fivio Foreign)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Element</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Armed N Dangerous (Charlie Sloth Freestyle)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Mannequin (feat. Lil Tjay)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>She Got a Thing</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>Dior (Bonus)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+            <pista>
+                <nombre>War (feat. Lil Tjay) (Bonus)</nombre>
+                <autor>Pop Smoke</autor>
+            </pista>
+        </lista>
+    </disco>
+    <disco>
+        <titulo>Unbothered</titulo>
+        <artista>Lil Skies</artista>
+        <pais>Estados Unidos</pais>
+        <compañia>Warner Music</compañia>
+        <año>2021</año>
+        <genero>Hip-Hop/Rap</genero>
+        <imagen>img/unb.jpg</imagen>
+            <lista>
+            <pista>
+                <nombre>Fade Away</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Take 5</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Excite Me (feat. Wiz Khalifa)</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Having My Way (feat. Lil Durk)</nombre>
+                <autor>Lil Skies</autor></pista>
+            <pista>
+                <nombre>Ok</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Dead Broke</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>On Sigth</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Think Deep Don't Sink</nombre>
+                <autor>Lil Skies</autor>
+            </pista><pista>
+                <nombre>Red Wine &amp; Jodeci</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Locked Up</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Trust Nobody</nombre>
+                <autor>Lil Skies</autor>
+            </pista>
+            <pista>
+                <nombre>Riot</nombre>
+                <autor>Lil Skies</autor></pista>
+            <pista>
+                <nombre>Sky High</nombre>
+                <autor>Lil Skies &amp; Maikel Delacalle</autor>
+            </pista>
+            <pista>
+                <nombre>Mhmmmm</nombre>
+                <autor>Lil Skies</autor></pista>
+        </lista>
+    </disco>
+        <disco>
+        <titulo>Islas</titulo>
+        <artista>Israel B</artista>
+        <pais>España</pais>
+        <compañia>Lowligth Music</compañia>
+        <año>2021</año>
+        <genero>Hip-Hop</genero>
+        <imagen>img/islas.jpeg</imagen>
+        <lista>
+            <pista>
+            
+                <nombre>Pártete</nombre>
+                <autor>Israel B, Lowligth</autor>
+            </pista>
+            <pista>
+                <nombre>No Face No Case</nombre>
+                <autor>Israel B, Lowligth &amp; Delarue</autor></pista>
+            <pista>
+                <nombre>Creo Que No</nombre>
+                <autor>Israel B, Lowligth &amp; Ergo Pro</autor>
+            </pista>
+            <pista>
+                <nombre>Callejero  </nombre>
+                <autor>Israel B, Lowligth &amp; Kaydy Cain</autor>
+            </pista>
+            <pista>
+                <nombre>No Haces Nada (feat. Pedro Calderón)  </nombre>
+                <autor>Israel B, Lowligth &amp; JC Reyes</autor>
+            </pista>
+            <pista>
+                <nombre>Dominicana</nombre>
+                <autor>Israel B, Lowligth &amp; EL IMA</autor>
+            </pista>
+            <pista>
+                <nombre>Lo Hago Así </nombre>
+                <autor>Israel B, Lowligth &amp; Cruz Cafuné</autor>
+            </pista>
+        </lista>
+    </disco>
+</catalogo>
