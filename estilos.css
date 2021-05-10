@@ -1,5 +1,7 @@
+html{
+	scroll-behavior: smooth;
+}
 body{
-	
 	width: 100%;
 	background-color: #FFFFFF;
 	margin: 0;
@@ -88,4 +90,7 @@ li{
 hr{
 	border: solid #808080 1px;
 	border-radius: 5px;
+}
+input{
+	caret-color: #ff0062;
 }
