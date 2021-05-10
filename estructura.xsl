@@ -8,20 +8,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <html lang="es">
 	<head>
 	  <meta charset="utf-8"/>
-	  <title>Musica</title>
+	  <title>Tracked - Inicio</title>
 	  <link href="./estilos.css" rel="stylesheet"/>
 	</head>
 
 	<body>
-        <header>
+        <header id="cabecera">
             <h1>Tracked</h1>
         </header>
         <nav>
-        <ul>
-            <li>Generos</li>
-            <li>Artistas</li>
-            <li>Paises</li>
-        </ul>
+            <ul>
+                <li>Generos</li>
+                <li>Artistas</li>
+                <li>Paises</li>
+            </ul>
         </nav>
         <main>
             <h1>Catalogo</h1>

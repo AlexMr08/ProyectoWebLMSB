@@ -1,10 +1,31 @@
 body{
-	max-width: 850px;
+	
+	width: 100%;
 	background-color: #FFFFFF;
-	margin: auto;
+	margin: 0;
+	padding: 0;
+	color: #000000;
+}
+
+#cabecera{
+	background-color: #808080;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	margin: 0;
+	padding: 0;
+	background-color: #eeeeee;
+}
+nav ul{
+	list-style: none;
+}
+main{
+	max-width: 850px;
 	padding: 15px;
 	margin: 15px auto;
-	color: #000000;
 }
 
 h1{
@@ -27,13 +48,13 @@ h4{
 .album{
 	background-color: #eeeeee;
 	border: #808080 1px solid;
-	border-radius: 6px;
+	border-radius: 10px;
 	padding: 15px 20px;
 	margin-bottom: 10px;
 }
 
 h2, h3, h4{
-	padding: 0%;
+	padding: 2px 0;
 	margin: 0%;
 }
 
@@ -53,18 +74,13 @@ h2, h3, h4{
 .datos div{
 	min-height: 100px;
 	height: 20%;
-	padding: 5px 0;
+	padding: 10px 0;
 	margin-left: 15px;
 }
 
 .lista article{
 	padding: 0%;
 	margin: 0%;
-}
-ul{
-	margin: 0%;
-	list-style: decimal;
-	padding: 0%;
 }
 li{
 	margin: 0 15px ;
