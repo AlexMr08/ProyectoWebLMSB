@@ -87,18 +87,17 @@ h5 {
 .galeria img{
 	display: flexbox;
 	min-width: 50px;
-	width: 25%;
-	max-width: 100px;
+	width: 20%;
 
 }
 
 .principal img{
-	display: block;
 	min-width: 100px;
 	width: 25%;
 	max-width: 500px;
 	float: right;
 	margin-left: 10px;
+    box-sizing: border-box;
 }
 
 .principal p{
