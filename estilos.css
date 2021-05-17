@@ -49,10 +49,8 @@ nav a:hover {
 }
 
 main {
-    max-width: 850px;
-	width: 50%;
+	width: 80%;
 	min-width: 768px;
-    padding: 15px;
     margin: 15px auto;
 }
 
@@ -76,20 +74,22 @@ h5 {
     border: #808080 1px solid;
     border-radius: 10px;
     padding: 10px 20px;
-    margin: 0px auto ;
+    margin: 0px auto;
 }
 
-.galera{
+.galeria{
 	padding: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
 }
 .galeria img{
-	display: inline-block;
-	min-width: 100px;
+	display: flexbox;
+	min-width: 50px;
 	width: 25%;
-	max-width: 500px;
-	margin: 0px;
-	vertical-align: middle;
-	margin: 5px;
+	max-width: 100px;
+
 }
 
 .principal img{
