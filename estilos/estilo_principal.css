@@ -1,5 +1,5 @@
-html{
-	scroll-behavior: smooth;
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -12,39 +12,17 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-#cabecera {
-    background-color: #808080;
-	width: 100%;
-    position: fixed;
-    top: 0%;
-}
-
-nav {
-	width: 100%;
-    height: 50px;
-    margin: 0;
-    padding: 0%;
-    background-color: #808080;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-nav div a {
-    padding: 5px;
-}
-
-
 main {
-	width: 80%;
-    margin: auto;
+    width: 80%;
+    margin: 55px auto;
 }
-main section{
+
+main section {
     margin: 10px 0;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 h4 {
@@ -54,11 +32,12 @@ h4 {
 h5 {
     color: #141414d8;
     font-weight: bold;
-    font-size: 0.5rem;
 }
 
-#albumes, #galeria, #principal{
-	box-sizing: content-box;
+#albumes,
+#galeria,
+#principal {
+    box-sizing: content-box;
     background-color: #eeeeee;
     border: #808080 1px solid;
     border-radius: 10px;
@@ -66,65 +45,54 @@ h5 {
     width: 100%;
 }
 
-#principal img{
-	min-width: 50px;
-	width: 25%;
-	max-width: 250px;
-	float: right;
-	margin-left: 10px;
+#principal h2 {
+    text-align: center;
+}
+
+#principal img {
+    min-width: 50px;
+    width: 25%;
+    max-width: 250px;
+    float: right;
+    margin: 10px 0px 10px 10px;
     box-sizing: border-box;
 }
 
-#principal p{
-	text-align: justify;
+#principal p {
+    text-align: justify;
+    margin: 10px;
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
     padding: 2px 0;
     margin: 0%;
 }
 
-#albumes{
+#albumes {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
-    justify-content:space-around;
+    justify-content: space-around;
 }
 
-#albumes article{
-width: 40%;
-box-sizing: border-box;
-padding: 0px 10px;
-text-align: center;
+#albumes article {
+    width: 40%;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    text-align: center;
 }
 
-#albumes article img{
+#albumes article img {
     width: 100%;
-    max-width: 600px;
+    max-width: 500px;
     border-radius: 10px;
     border: #808080 solid 1px;
 }
-
-footer{
-    width: 100%;
-    box-sizing: border-box;
-    padding: 0%;
-    margin: 0%;
-}
-footer{
-    display: flex;
-    width: 100%;
-    margin: 0%;
-    padding: 0% 0%;
-    background: #808080;
-    flex-wrap: wrap;
-}
-footer section{
-    display: flexbox;
-    box-sizing: border-box;
-    width: 25%;
-    padding:  0% 5%;
-    border:  1px solid;
-    min-height: 50px;
-    max-height: 300px;
+@media (max-width:768px){
+    img{
+        width: 100%;
+        max-width: unset;
+    }
 }

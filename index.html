@@ -7,9 +7,13 @@
     <title>Tracked - Inicio</title>
     <link href="./estilos/estilo_principal.css" rel="stylesheet">
     <link href="./estilos/enlaces.css" rel="stylesheet">
+    <link href="./estilos/cabecera.css" rel="stylesheet">
+    <link href="./estilos/pie_pagina.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
         integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
         crossorigin="anonymous" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 
 <body>
@@ -21,7 +25,6 @@
                 <a href="#datos.html">Datos</a>
                 <a href="#galeria.html">Galeria</a>
                 <a href="#contacto.html">Contacto</a>
-                <a href="#">caca</a>
             </div>
             <div>
                 <a href="#principal"><i class="fab fa-twitter"></i></a>
@@ -35,9 +38,9 @@
     <main>
 
         <section id="principal">
-            <h2 id="caca">Catalogo</h2>
+            <h2>Inicio</h2>
+            <img src="assets/img/cascos.jpg" />
             <p>
-                <img src="assets/img/cascos.jpg" />
                 La música es, según la definición tradicional del término, el arte de crear y organizar sonidos y
                 silencios respetando los principios fundamentales de la melodía, la armonía y el ritmo, mediante la
                 intervención de complejos procesos psicoanímicos. El concepto de música ha ido evolucionando desde su
@@ -57,6 +60,45 @@
                 relaciones interpersonales, el aprendizaje de lenguas no nativas y a potenciar la inteligencia emocional
                 entre otros. Por este motivo, la música debe estar presente en cualquier plan educativo ministerial
                 moderno y reconocida como una disciplina imprescindible dentro de la enseñanza obligatoria.
+                La música contiene dos elementos: el material acústico y la idea intelectual. Ambos no se hallan
+                yuxtapuestos como forma y contenido, sino que se combinan, en la música, para formar una imagen
+                unitaria. Para convertirse en vehículo de la idea intelectual, el material acústico experimenta una
+                preparación pre-musical, mediante un proceso de selección y ordenamiento.
+                <br>
+                La estructura del sonido, la escala de sonidos armónicos, exhibe ya un ordenamiento que la predestina
+                para ser el vehículo de la intención intelectual. Con el fin de un entendimiento general previo, dentro
+                del material acústico para la organización de la música, encontramos diversas clasificaciones, dentro de
+                las cuales la más habitual en ambientes académicos es la que divide la música en melodía, armonía y
+                ritmo.​ La manera en la que se definen y aplican estos principios, varían de una cultura a otra
+                (también hay variaciones temporales).
+                <br>
+                La melodía es un conjunto de sonidos —concebidos dentro de un ámbito sonoro particular— que suenan
+                sucesivamente uno después de otro (concepción horizontal), y que se percibe con identidad y sentido
+                propio. También los silencios forman parte de la estructura de la melodía, poniendo pausas al "discurso
+                melódico". El resultado es como una frase bien construida semántica y gramaticalmente. Es discutible —en
+                este sentido— si una secuencia dodecafónica podría ser considerada una melodía o no. Cuando hay dos o
+                más melodías simultáneas se denomina contrapunto.
+                <br>
+                La armonía, bajo una concepción vertical de la sonoridad, y cuya unidad básica es el acorde o tríada,
+                regula la concordancia entre sonidos que suenan simultáneamente y su enlace con sonidos vecinos.
+                El ritmo, es el resultado final de los elementos anteriores, a veces con variaciones muy notorias, pero
+                en una muy general apreciación se trata de la capacidad de generar contraste en la música, esto es
+                provocado por las diferentes dinámicas, timbres, texturas y sonidos. En la práctica se refiere a la
+                acentuación del sonido y la distancia temporal que hay entre el comienzo y el fin del mismo o, dicho de
+                otra manera, su duración.
+                <br>
+                La articulación, refiere a cómo un sonido es ejecutado, así como la transición entre dos (o más) notas.
+                Entre las variadas formas de articulación elaboradas a lo largo de la historia, destacan principalmente
+                el legato, el staccato, el portato, el tenuto, el acento, el marcato y el calderón.
+                Por otro lado, la idea intelectual (podemos incluir lo que hoy llamamos cerebro-cuerpo-mente) convierte
+                el material acústico en arte, y así la música adquiere historia, vinculándose con el tiempo y haciéndose
+                atemporal.
+                <br>
+                La incorporación de un material acústico ampliado en el siglo XX, produjo a veces dificultades de
+                información, por falta de un sistema válido de entendimiento previo, y es por eso que otros elementos se
+                toman en cuenta a la hora de analizar y estudiar el fenómeno de la música, como son la forma, la
+                instrumentación, la textura, etc. A partir de todos estos elementos, se originan nuevos principios de
+                ordenamiento y posibilidades de composición.
             </p>
         </section>
 
@@ -65,9 +107,12 @@
         <section id="albumes">
             <article>
                 <img src="assets/img/vt.jpg">
-                <h3>Visión Túnel</h3>
-                <h4>Cruz Cafune</h4>
-                <h5>Hip-Hop/Rap • 2020</h5>
+                <span>
+                    <h3>Visión Túnel</h3>
+                    <h4>Cruz Cafune</h4>
+                    <h5>Hip-Hop/Rap • 2020</h5>
+                </span>
+
             </article>
             <article>
                 <img src="assets/img/eall.jpg">
@@ -174,10 +219,11 @@
         <!--CONTACTO-->
 
     </main>
-    <footer>
-        <section>
+    <footer id="pie">
+        <section class="datos">
             <h3>Mapa web:</h3>
-            <ul>                <li> <a href="#principal">Inicio</a></li>
+            <ul>
+                <li> <a href="#principal">Inicio</a></li>
                 <li><a href="#albumes">Albumes</a></li>
                 <li><a href="#datos.html">Datos</a></li>
                 <li><a href="#galeria.html">Galeria</a></li>
@@ -185,30 +231,32 @@
 
             </ul>
         </section>
-        <section>
+        <section class="datos">
             <h3>Enlaces relacionados web:</h3>
             <ul>
-                <li><a href=".">a </a></li>
-                <li><a href="pags/albumes.html">b</a></li>
-                <li><a href="pags/datos.html">c</a></li>
-                <li><a href="pags/galeria.html">d</a></li>
-                <li><a href="pags/contacto.html">e</a></li>
+                <li><a href="#">a</a></li>
+                <li><a href="#">b</a></li>
+                <li><a href="#">c</a></li>
+                <li><a href="#">d</a></li>
+                <li><a href="#">e</a></li>
+                <li><a href="#">f</a></li>
+                <li><a href="#">g</a></li>
             </ul>
         </section>
-        <section>
+        <section class="datos">
             <h3>Datos fiscales:</h3>
             <ul>
                 <li>Tracked S.L.</li>
-                <li>C/ Sonic el erizo, Zaragoza</li>
+                <li>C/ la leyenda de Zelda, Zaragoza</li>
             </ul>
         </section>
-        <section>
+        <section class="datos">
             <h3>Redes sociales:</h3>
             <ul>
-                <li><a href="https://twitter.com"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="https://es-es.facebook.com"><i class="fab fa-facebook"></i></a></li>
-                <li><a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a></li>
-                <li><a href="https://www.twitch.tv"><i class="fab fa-twitch"></i></a></li>
+                <li><a href="https://twitter.com">Twitter <i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://es-es.facebook.com">Facebook <i class="fab fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com">Instagram <i class="fab fa-instagram"></i></a></li>
+                <li><a href="https://www.twitch.tv">Twitch <i class="fab fa-twitch"></i></a></li>
             </ul>
         </section>
     </footer>

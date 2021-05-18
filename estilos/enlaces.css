@@ -3,5 +3,6 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: #66FA70;    
+    color: #66FA70;
+    border-bottom: #66FA70 solid 1px;
 }
