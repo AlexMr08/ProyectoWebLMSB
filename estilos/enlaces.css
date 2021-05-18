@@ -4,5 +4,5 @@ a{
 }
 a:hover{
     color: #66FA70;
-    border-bottom: #66FA70 solid 1px;
+    text-decoration: underline;
 }

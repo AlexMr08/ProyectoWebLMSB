@@ -85,14 +85,19 @@ h4 {
 }
 
 #albumes article img {
+
     width: 100%;
     max-width: 500px;
     border-radius: 10px;
     border: #808080 solid 1px;
 }
-@media (max-width:768px){
-    img{
-        width: 100%;
+
+@media (max-width:768px) {
+    #principal img {
+        display: block;
+        float: none;
+        margin: auto;
+        width: 90%;
         max-width: unset;
     }
 }
