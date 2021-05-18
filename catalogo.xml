@@ -7,7 +7,7 @@
         <compañia>Mecen</compañia>
         <año>2020</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/vt.jpg</imagen>
+        <imagen>assets/img/vt.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Visión Túnel</nombre>
@@ -50,7 +50,7 @@
         <compañia>LVRN/Intrescope Records</compañia>
         <año>2018</año>
         <genero>R&amp;B/Soul</genero>
-        <imagen>img/eall.jpg</imagen>
+        <imagen>assets/img/eall.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Unfair</nombre>
@@ -117,7 +117,7 @@
         <compañia>Epic Records/Sony</compañia>
         <año>2018</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/aw.jpg</imagen>
+        <imagen>assets/img/aw.jpg</imagen>
         <lista>
             <pista>
                 <nombre>STARGAZING</nombre>
@@ -180,7 +180,7 @@
         <compañia>Columbia Records</compañia>
         <año>2019</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/dal.jpg</imagen>
+        <imagen>assets/img/dal.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Lost Files</nombre>
@@ -247,7 +247,7 @@
         <compañia>Grade A Productions</compañia>
         <año>2018</año>
         <genero>Hip-Hop/Rap</genero> 
-        <imagen>img/gr.jpg</imagen>
+        <imagen>assets/img/gr.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Intro</nombre>
@@ -322,7 +322,7 @@
         <compañia>Grade A Productions</compañia>
         <año>2020</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/lnd.jpg</imagen>
+        <imagen>assets/img/lnd.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Anxiety (Intro)</nombre>
@@ -421,7 +421,7 @@
         <compañia>RCA Records</compañia>
         <año>2015</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/wido.jpg</imagen>
+        <imagen>assets/img/wido.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Intro</nombre>
@@ -500,7 +500,7 @@
         <compañia>Republic Records</compañia>
         <año>2018</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/sk.jpg</imagen>
+        <imagen>assets/img/sk.jpg</imagen>
         <lista>
             <pista>
                 <nombre>So High</nombre>
@@ -563,7 +563,7 @@
         <compañia>Mecen</compañia>
         <año>2020</año>
         <genero>Hip-Hop</genero>
-        <imagen>img/m922.jpg</imagen>
+        <imagen>assets/img/m922.jpg</imagen>
         <lista>
             <pista>
                 <nombre>922 928</nombre>
@@ -626,7 +626,7 @@
         <compañia>Mecen</compañia>
         <año>2018</año>
         <genero>Urbano latino</genero>
-        <imagen>img/mbmc.jpg</imagen>
+        <imagen>assets/img/mbmc.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Maracucho Bueno / Muere Chiquito</nombre>
@@ -697,7 +697,7 @@
         <compañia>Dreamville</compañia>
         <año>2018</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/kod.jpg</imagen>
+        <imagen>assets/img/kod.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Intro</nombre>
@@ -776,7 +776,7 @@
         <compañia>Lowligth Music</compañia>
         <año>2019</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/wiib.jpg</imagen>
+        <imagen>assets/img/wiib.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Pide Más</nombre>
@@ -815,7 +815,7 @@
         <compañia>Aftermath/Interscope</compañia>
         <año>2017</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/dm.jpg</imagen>
+        <imagen>assets/img/dm.jpg</imagen>
         <lista>
             <pista>
                 <nombre>BLOOD.</nombre>
@@ -882,7 +882,7 @@
         <compañia>Columbia</compañia>
         <genero>Hip-Hop/Rap</genero>
         <año>2019</año>
-        <imagen>img/t2m.jpg</imagen>
+        <imagen>assets/img/t2m.jpg</imagen>
         <lista>
             <pista>
                 <nombre>One Take</nombre>
@@ -961,7 +961,7 @@
         <compañia>Republic Records</compañia>
         <año>2019</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/mtw.jpg</imagen>
+        <imagen>assets/img/mtw.jpg</imagen>
         <lista>
             <pista>
                 <nombre>Invincible</nombre>
@@ -1020,7 +1020,7 @@
         <compañia>Warner Music</compañia>
         <año>2021</año>
         <genero>Hip-Hop/Rap</genero>
-        <imagen>img/unb.jpg</imagen>
+        <imagen>assets/img/unb.jpg</imagen>
             <lista>
             <pista>
                 <nombre>Fade Away</nombre>
@@ -1083,7 +1083,7 @@
         <compañia>Lowligth Music</compañia>
         <año>2021</año>
         <genero>Hip-Hop</genero>
-        <imagen>img/islas.jpeg</imagen>
+        <imagen>assets/img/islas.jpeg</imagen>
         <lista>
             <pista>
             
