@@ -18,13 +18,13 @@
     justify-content: space-around;
     box-sizing: content-box;
     background-color: #eeeeee;
-    border: #808080 1px solid;
     border-radius: 10px;
     width: 95%;
 }
 
 #galeria img {
-    width: 20%;
+
+    max-width: 300px;
     box-sizing: border-box;
     margin: 5px;
 }
