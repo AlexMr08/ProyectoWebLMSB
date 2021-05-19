@@ -1,0 +1,35 @@
+#principal {
+    box-sizing: content-box;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    padding: 10px 0px;
+    width: 100%;
+}
+
+#principal h2 , h1{
+    text-align: center;
+}
+
+#principal img {
+    min-width: 50px;
+    width: 25%;
+    max-width: 250px;
+    float: right;
+    margin: 0px 10px 0px 10px;
+    box-sizing: border-box;
+}
+
+#principal p {
+    margin: 10px;
+    text-align: justify;
+}
+@media (max-width: 768px){
+    #principal img {
+        display: block;
+        float: none;
+        margin: auto;
+        width: 95%;
+        max-width: unset;
+        border-radius: 10px;
+    }
+}

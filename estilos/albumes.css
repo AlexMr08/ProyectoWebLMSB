@@ -1,0 +1,50 @@
+#albumes{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    box-sizing: content-box;
+    background-color: #eeeeee;
+    border: #808080 1px solid;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#albumes article {
+    width: 40%;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+#albumes article img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    border: #808080 solid 1px;
+}
+
+@media (max-width: 768px){
+    #albumes{
+        
+        border: none;
+        
+    }
+
+    #albumes article {
+        width: 95%;
+        margin: 5px 0px;
+        box-sizing: border-box;
+        padding: 5px 20px;
+        text-align: center;
+        border: #808080 solid 1px;
+        border-radius: 10px;
+    }
+    
+    #albumes article img {
+        width: 100%;
+        border-radius: 10px;
+        border: #808080 solid 1px;
+    }
+    
+}

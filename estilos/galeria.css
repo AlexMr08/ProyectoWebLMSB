@@ -1,0 +1,18 @@
+#galeria{
+    display: flex;
+    box-sizing: content-box;
+    background-color: #eeeeee;
+    border: #808080 1px solid;
+    border-radius: 10px;
+    padding: 10px 10px;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+}
+
+#galeria img{
+    width: 20%;
+    max-width: 250px;
+}
+
