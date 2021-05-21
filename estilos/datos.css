@@ -8,17 +8,19 @@
     border: #808080 1px solid;
     border-radius: 10px;
     width: 100%;
-    padding: 5px 0px;
+    padding: 0px 0px;
+
 }
 
 table {
     border: solid 1px #808080;
-    border-radius: 10px;
     text-align: center;
     border-collapse: collapse;
     border-spacing: 0;
     cursor: default;
-    width: 100%;
+    width: 90%;
+    margin: 20px auto;
+    box-shadow: 4px 3px 13px 1px rgba(0, 0, 0, 0.342);
 }
 
 thead,
@@ -38,35 +40,31 @@ tfoot {
 thead th,
 tfoot th,
 tbody td {
-    padding: 5px 10px;
+    padding: 5px 5px;
 }
 
 tbody tr:nth-child(2n+1) {
     background-color: #dfdfdf;
 }
 
-tbody tr:hover {
-    background-color: #ff00620e;
+tr:hover {
+    background-color: #ff00621a !important; 
+}
+
+td:hover, th:hover{
+    background: #ff00621a;
 }
 
 @media (max-width:768px) {
     table {
-        font-size: 0.6em;
-        width: 90%;
-        margin: auto;
-    }
-
-    #datos {
-
-        border: none;
-
+        font-size: 0.9em;
+        width: 100%;
     }
 
     #datos table {
         width: 95%;
         box-sizing: border-box;
-        padding: 5px 20px;
-        text-align: center;
+        padding: 5px 20px;;
         border: #808080 solid 1px;
         border-radius: 10px;
     }
