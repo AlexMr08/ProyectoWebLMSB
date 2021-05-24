@@ -4,7 +4,7 @@ html {
 
 body {
     width: 100%;
-    background-color: #FFFFFF;
+    background-color: #FDFDFD;
     color: #000000;
     margin: 0%;
     padding: 0%;
@@ -66,4 +66,38 @@ h4 {
     body{
         background-color: #eeeeee;
     }
+}
+
+#contacto{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    box-sizing: content-box;
+    background-color: #eeeeee;
+    border: #808080 1px solid;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#contacto form{
+    user-select: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: content-box;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    width: 95%;
+}
+
+
+form label{
+    cursor: pointer;
+}
+
+form textarea{
+    resize: none;
+    width: 100%;
 }

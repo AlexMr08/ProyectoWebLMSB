@@ -2,6 +2,8 @@ h1 {
   padding: 0;
   margin: 0;
   font-family: 'Permanent Marker', cursive;
+  cursor: default;
+  user-select: none;
 }
 
 #wrapper{
@@ -9,7 +11,7 @@ h1 {
 }
 
 .glitch {
-  color: rgb(0, 0, 0);
+  color: #000000;
   font-size: 3em;
   animation: glitch-skew 1s infinite linear alternate-reverse;
 }
@@ -39,7 +41,7 @@ h1 {
   height: 100%;
   left: -2px;
   text-shadow: -2px 0 #00ffdd, 2px 2px #ff00c1;
-  animation: glitch-anim2 1s infinite linear alternate-reverse;
+  animation: glitch-anim2 5s infinite linear alternate-reverse;
 }
 
 /* Creates an animation with 20 steps. For each step, it calculates 
