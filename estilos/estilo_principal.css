@@ -57,22 +57,12 @@ h4 {
         margin: 60px auto 0px;
     }
 
-    hr{
-        display: inline-block;
-        border-color: #eeeeee;
-        width: 100%;
-    }
-
     body{
         background-color: #eeeeee;
     }
 }
 
 #contacto{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: space-around;
     box-sizing: content-box;
     background-color: #eeeeee;
     border: #808080 1px solid;
@@ -81,23 +71,20 @@ h4 {
 }
 
 #contacto form{
-    user-select: none;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-around;
-    box-sizing: content-box;
     background-color: #eeeeee;
     border-radius: 10px;
-    width: 95%;
+    width: 100%;
+    margin: auto;
 }
-
 
 form label{
     cursor: pointer;
+    width: 50%;
+    box-sizing: border-box;
+
 }
 
 form textarea{
     resize: none;
-    width: 100%;
+    width: 80%;
 }
