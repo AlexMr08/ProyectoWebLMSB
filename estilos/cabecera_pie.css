@@ -38,6 +38,7 @@ nav span a {
 @media (max-width:768px) {
     nav{
         height: 70px;
+        font-size: 0.9em;
     }
 
     #pie {
